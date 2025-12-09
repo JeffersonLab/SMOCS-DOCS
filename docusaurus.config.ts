@@ -15,14 +15,14 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://armenkasp.github.io',
+  url: 'https://jeffersonlab.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/SMOCS-DOCS/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'armenkasp', // Usually your GitHub org/user name.
+  organizationName: 'jeffersonlab', // Usually your GitHub org/user name.
   projectName: 'SMOCS-DOCS', // Usually your repo name.
 
   onBrokenLinks: 'throw',
